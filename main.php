@@ -15,7 +15,7 @@
 
 <body>
   
-  <Header class="title">BOOK WORM</Header>
+  <Header class="title">Reader's Hub</Header>
  
 
   <!-- nav bar begins-->
